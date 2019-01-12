@@ -1,0 +1,176 @@
+# number_of_header_lines: 68
+# comment:  
+# comment:  ************ USE OF ESRL GMD DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the
+# comment: scientific community in the belief that their wide dissemination
+# comment: will lead to greater understanding and new scientific insights.
+# comment: The availability of these data does not constitute publication
+# comment: of the data.  NOAA relies on the ethics and integrity of the user to
+# comment: ensure that ESRL receives fair credit for their work.  If the data 
+# comment: are obtained for potential use in a publication or presentation, 
+# comment: ESRL should be informed at the outset of the nature of this work.  
+# comment: If the ESRL data are essential to the work, or if an important 
+# comment: result or conclusion depends on the ESRL data, co-authorship
+# comment: may be appropriate.  This should be discussed at an early stage in
+# comment: the work.  Manuscripts using the ESRL data should be sent to ESRL
+# comment: for review before they are submitted for publication so we can
+# comment: insure that the quality and limitations of the data are accurately
+# comment: represented.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO2 CCGG (Individual Flasks)
+# contact_name: Ed Dlugokencky
+# contact_telephone: (303) 497-6228
+# contact_email: Ed.Dlugokencky@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: University of Bristol
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment: Use of these data implies an agreement to reciprocate.
+# comment: Laboratories making similar measurements agree to make their
+# comment: own data available to the general public and to the scientific
+# comment: community in an equally complete and easily accessible form.
+# comment: Modelers are encouraged to make available to the community,
+# comment: upon request, their own tools used in the interpretation
+# comment: of the ESRL data, namely well documented model code, transport
+# comment: fields, and additional information necessary for other
+# comment: scientists to repeat the work and to run modified versions.
+# comment: Model availability includes collaborative support for new
+# comment: users of the models.
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: tac
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_sample-constraints: date:1900-01-01,2017-12-31
+# description_creation-time: 2018-08-01 10:03:30
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at ftp://aftp.cmdl.noaa.gov/data/trace_gases/.
+# comment:
+# data_fields: sample_site_code sample_year sample_month sample_day sample_hour sample_minute sample_seconds sample_id sample_method parameter_formula analysis_group_abbr analysis_value analysis_uncertainty analysis_flag analysis_instrument analysis_year analysis_month analysis_day analysis_hour analysis_minute analysis_seconds sample_latitude sample_longitude sample_altitude sample_elevation sample_intake_height event_number
+TAC 2014 06 06 10 55 00   BGF009 N      co2     CCGG   397.350     0.070 ...  L8 2014 07 17 11 09 00  52.5177    1.1386   236.00    56.00   180.00   370477
+TAC 2014 06 06 10 55 00   BGF010 N      co2     CCGG   397.310     0.070 ...  L8 2014 07 17 11 25 00  52.5177    1.1386   236.00    56.00   180.00   370478
+TAC 2014 06 13 11 55 00   BGF011 N      co2     CCGG   391.720     0.070 ...  L8 2014 07 17 11 41 00  52.5177    1.1386   236.00    56.00   180.00   370476
+TAC 2014 06 20 08 35 00   BGF034 N      co2     CCGG   394.990     0.070 ...  L8 2014 07 17 12 13 00  52.5177    1.1386   236.00    56.00   180.00   370481
+TAC 2014 06 20 08 35 00   BGF035 N      co2     CCGG   395.380     0.070 ...  L8 2014 07 17 12 29 00  52.5177    1.1386   236.00    56.00   180.00   370482
+TAC 2014 06 27 09 28 00   BGF027 N      co2     CCGG   401.620     0.070 ...  L8 2014 07 17 12 46 00  52.5177    1.1386   236.00    56.00   180.00   370479
+TAC 2014 06 27 09 28 00   BGF036 N      co2     CCGG   401.590     0.070 ...  L8 2014 07 17 13 02 00  52.5177    1.1386   236.00    56.00   180.00   370480
+TAC 2014 07 04 08 15 00   BGF045 N      co2     CCGG   399.910     0.070 ...  L8 2014 08 18 12 15 00  52.5177    1.1386   236.00    56.00   180.00   372142
+TAC 2014 07 04 08 15 00   BGF046 N      co2     CCGG   400.180     0.070 ...  L8 2014 08 18 12 31 00  52.5177    1.1386   236.00    56.00   180.00   372143
+TAC 2014 07 11 09 50 00   BGF047 N      co2     CCGG   393.450     0.070 ...  L8 2014 08 18 12 47 00  52.5177    1.1386   236.00    56.00   180.00   372140
+TAC 2014 07 11 09 50 00   BGF048 N      co2     CCGG   393.510     0.070 ...  L8 2014 08 18 13 03 00  52.5177    1.1386   236.00    56.00   180.00   372141
+TAC 2014 07 15 12 53 00   BGF049 N      co2     CCGG   392.090     0.070 ...  L8 2014 08 18 13 19 00  52.5177    1.1386   236.00    56.00   180.00   372136
+TAC 2014 07 15 12 53 00   BGF050 N      co2     CCGG   391.780     0.070 ...  L8 2014 08 18 13 35 00  52.5177    1.1386   236.00    56.00   180.00   372137
+TAC 2014 07 24 08 21 00   BGF051 N      co2     CCGG   388.930     0.070 ...  L8 2014 08 18 14 24 00  52.5177    1.1386   236.00    56.00   180.00   372138
+TAC 2014 07 24 08 21 00   BGF052 N      co2     CCGG   389.020     0.070 ...  L8 2014 08 18 14 40 00  52.5177    1.1386   236.00    56.00   180.00   372139
+TAC 2014 08 01 09 01 00   BGF041 N      co2     CCGG   392.780     0.070 -..  L8 2014 09 24 14 18 00  52.5177    1.1386   236.00    56.00   180.00   374393
+TAC 2014 08 01 09 01 00   BGF042 N      co2     CCGG   393.910     0.070 +..  L8 2014 09 24 14 34 00  52.5177    1.1386   236.00    56.00   180.00   374394
+TAC 2014 08 07 12 06 00   BGF043 N      co2     CCGG   392.030     0.070 ...  L8 2014 09 24 13 46 00  52.5177    1.1386   236.00    56.00   180.00   374391
+TAC 2014 08 07 12 06 00   BGF044 N      co2     CCGG   391.990     0.070 ...  L8 2014 09 24 14 02 00  52.5177    1.1386   236.00    56.00   180.00   374392
+TAC 2014 08 15 09 40 00   BGF029 N      co2     CCGG   388.470     0.070 ...  L8 2014 09 24 13 14 00  52.5177    1.1386   236.00    56.00   180.00   374389
+TAC 2014 08 15 09 40 00   BGF030 N      co2     CCGG   388.840     0.070 ...  L8 2014 09 24 13 30 00  52.5177    1.1386   236.00    56.00   180.00   374390
+TAC 2014 08 21 08 40 00   BGF031 N      co2     CCGG   480.120     0.070 N..  L8 2014 09 24 12 40 00  52.5177    1.1386   236.00    56.00   180.00   374387
+TAC 2014 08 21 08 40 00   BGF032 N      co2     CCGG   388.940     0.070 ...  L8 2014 09 24 12 56 00  52.5177    1.1386   236.00    56.00   180.00   374388
+TAC 2014 08 29 11 20 00   BGF025 N      co2     CCGG   390.030     0.070 +..  L8 2014 11 25 12 34 00  52.5177    1.1386   236.00    56.00   180.00   377536
+TAC 2014 08 29 11 20 00   BGF026 N      co2     CCGG   389.060     0.070 -..  L8 2014 11 25 12 50 00  52.5177    1.1386   236.00    56.00   180.00   377537
+TAC 2014 09 12 11 32 00   BGF028 N      co2     CCGG   391.200     0.070 +..  L8 2014 11 25 14 11 00  52.5177    1.1386   236.00    56.00   180.00   377541
+TAC 2014 09 12 11 32 00   BGF056 N      co2     CCGG   390.270     0.070 -..  L8 2014 11 25 14 27 00  52.5177    1.1386   236.00    56.00   180.00   377540
+TAC 2014 10 09 11 47 00   BGF069 N      co2     CCGG   392.390     0.070 ...  L8 2014 11 25 12 02 00  52.5177    1.1386   236.00    56.00   180.00   377534
+TAC 2014 10 09 11 47 00   BGF070 N      co2     CCGG   392.540     0.070 ...  L8 2014 11 25 12 18 00  52.5177    1.1386   236.00    56.00   180.00   377535
+TAC 2014 10 23 11 43 00   BGF071 N      co2     CCGG   399.270     0.070 ...  L8 2014 11 25 13 38 00  52.5177    1.1386   236.00    56.00   180.00   377538
+TAC 2014 10 23 11 43 00   BGF072 N      co2     CCGG   399.500     0.070 ...  L8 2014 11 25 13 54 00  52.5177    1.1386   236.00    56.00   180.00   377539
+TAC 2014 10 31 11 42 00   BGF073 N      co2     CCGG   403.380     0.070 ...  L8 2015 01 20 15 49 00  52.5177    1.1386   236.00    56.00   180.00   379900
+TAC 2014 10 31 11 42 00   BGF075 N      co2     CCGG   403.280     0.070 ...  L8 2015 01 20 16 05 00  52.5177    1.1386   236.00    56.00   180.00   379901
+TAC 2014 11 21 09 42 00   BGF011 N      co2     CCGG   431.960     0.070 .Z.  L8 2015 01 20 16 21 00  52.5177    1.1386   236.00    56.00   180.00   379898
+TAC 2014 11 21 09 42 00   BGF034 N      co2     CCGG   431.890     0.070 .Z.  L8 2015 01 20 16 37 00  52.5177    1.1386   236.00    56.00   180.00   379899
+TAC 2014 11 28 12 09 00   BGF041 N      co2     CCGG   442.960     0.070 .X.  L8 2015 01 20 15 17 00  52.5177    1.1386   236.00    56.00   180.00   379896
+TAC 2014 11 28 12 09 00   BGF042 N      co2     CCGG   443.100     0.070 .X.  L8 2015 01 20 15 33 00  52.5177    1.1386   236.00    56.00   180.00   379897
+TAC 2014 12 03 11 23 00   BGF043 N      co2     CCGG   401.850     0.070 ...  L8 2015 01 20 14 45 00  52.5177    1.1386   236.00    56.00   180.00   379894
+TAC 2014 12 03 11 23 00   BGF044 N      co2     CCGG   401.930     0.070 ...  L8 2015 01 20 15 01 00  52.5177    1.1386   236.00    56.00   180.00   379895
+TAC 2014 12 11 12 03 00   BGF017 N      co2     CCGG   403.630     0.070 ...  L8 2015 03 23 15 32 00  52.5177    1.1386   236.00    56.00   180.00   382907
+TAC 2014 12 11 12 03 00   BGF038 N      co2     CCGG   403.470     0.070 ...  L8 2015 03 23 15 48 00  52.5177    1.1386   236.00    56.00   180.00   382906
+TAC 2014 12 18 12 23 00   BGF059 N      co2     CCGG   401.780     0.070 ...  L8 2015 03 23 15 00 00  52.5177    1.1386   236.00    56.00   180.00   382903
+TAC 2014 12 18 12 23 00   BGF061 N      co2     CCGG   401.790     0.070 ...  L8 2015 03 23 15 16 00  52.5177    1.1386   236.00    56.00   180.00   382904
+TAC 2015 01 09 09 32 00   BGF002 N      co2     CCGG   406.730     0.070 ...  L8 2015 03 23 14 28 00  52.5177    1.1386   236.00    56.00   180.00   382901
+TAC 2015 01 09 09 32 00   BGF004 N      co2     CCGG   406.770     0.070 ...  L8 2015 03 23 14 44 00  52.5177    1.1386   236.00    56.00   180.00   382902
+TAC 2015 01 15 15 32 00   BGF018 N      co2     CCGG   403.520     0.070 ...  L8 2015 03 24 11 09 00  52.5177    1.1386   236.00    56.00   180.00   382905
+TAC 2015 01 22 11 52 00   BGF032 N      co2     CCGG   415.960     0.070 -..  L8 2015 04 06 12 51 00  52.5177    1.1386   236.00    56.00   180.00   383940
+TAC 2015 01 22 11 52 00   BGF051 N      co2     CCGG   416.590     0.070 +..  L8 2015 04 06 13 07 00  52.5177    1.1386   236.00    56.00   180.00   383939
+TAC 2015 01 28 13 52 00   BGF050 N      co2     CCGG   404.180     0.070 ...  L8 2015 04 06 13 22 00  52.5177    1.1386   236.00    56.00   180.00   383937
+TAC 2015 01 28 13 52 00   BGF052 N      co2     CCGG   404.410     0.070 ...  L8 2015 04 06 13 38 00  52.5177    1.1386   236.00    56.00   180.00   383938
+TAC 2015 02 17 15 58 00   BGF035 N      co2     CCGG   407.430     0.070 ...  L8 2015 04 06 12 19 00  52.5177    1.1386   236.00    56.00   180.00   383941
+TAC 2015 02 17 15 58 00   BGF045 N      co2     CCGG   406.940     0.070 ...  L8 2015 04 06 12 35 00  52.5177    1.1386   236.00    56.00   180.00   383942
+TAC 2015 03 03 13 06 00   BGF030 N      co2     CCGG   405.420     0.070 ...  L8 2015 04 23 13 12 00  52.5177    1.1386   236.00    56.00   180.00   384906
+TAC 2015 03 03 13 06 00   BGF048 N      co2     CCGG   405.340     0.070 ...  L8 2015 04 23 13 28 00  52.5177    1.1386   236.00    56.00   180.00   384907
+TAC 2015 03 09 13 01 00   BGF046 N      co2     CCGG   409.510     0.070 ...  L8 2015 04 06 11 47 00  52.5177    1.1386   236.00    56.00   180.00   383944
+TAC 2015 03 09 13 01 00   BGF070 N      co2     CCGG   409.490     0.070 ...  L8 2015 04 06 12 03 00  52.5177    1.1386   236.00    56.00   180.00   383943
+TAC 2015 03 13 10 25 00   BGF008 N      co2     CCGG   415.180     0.070 ...  L8 2015 04 23 11 35 00  52.5177    1.1386   236.00    56.00   180.00   384902
+TAC 2015 03 13 10 25 00   BGF060 N      co2     CCGG   414.770     0.070 ...  L8 2015 04 23 11 51 00  52.5177    1.1386   236.00    56.00   180.00   384903
+TAC 2015 03 20 09 46 00   BGF006 N      co2     CCGG   410.230     0.070 ...  L8 2015 04 23 12 39 00  52.5177    1.1386   236.00    56.00   180.00   384904
+TAC 2015 03 20 09 46 00   BGF058 N      co2     CCGG   410.130     0.070 ...  L8 2015 04 23 12 55 00  52.5177    1.1386   236.00    56.00   180.00   384905
+TAC 2015 03 26 14 50 00   BGF037 N      co2     CCGG   404.930     0.070 ...  L8 2015 04 23 12 07 00  52.5177    1.1386   236.00    56.00   180.00   384908
+TAC 2015 03 26 14 50 00   BGF053 N      co2     CCGG   405.030     0.070 ...  L8 2015 04 23 12 23 00  52.5177    1.1386   236.00    56.00   180.00   384909
+TAC 2015 04 01 10 46 00   BGF022 N      co2     CCGG   407.060     0.070 ...  L8 2015 08 07 12 07 00  52.5177    1.1386   236.00    56.00   180.00   390948
+TAC 2015 04 01 10 46 00   BGF024 N      co2     CCGG   406.700     0.070 ...  L8 2015 08 07 12 22 00  52.5177    1.1386   236.00    56.00   180.00   390937
+TAC 2015 05 07 13 46 00   BGF021 N      co2     CCGG   397.250     0.070 -..  L8 2015 08 07 12 38 00  52.5177    1.1386   236.00    56.00   180.00   390935
+TAC 2015 05 07 13 46 00   BGF023 N      co2     CCGG   398.060     0.070 +..  L8 2015 08 07 12 54 00  52.5177    1.1386   236.00    56.00   180.00   390936
+TAC 2015 05 15 10 26 00   BGF011 N      co2     CCGG   400.980     0.070 ...  L8 2015 08 07 13 10 00  52.5177    1.1386   236.00    56.00   180.00   390946
+TAC 2015 05 15 10 26 00   BGF075 N      co2     CCGG   401.260     0.070 ...  L8 2015 08 07 13 26 00  52.5177    1.1386   236.00    56.00   180.00   390947
+TAC 2015 05 29 08 50 00   BGF034 N      co2     CCGG   403.590     0.070 ...  L8 2015 08 07 13 41 00  52.5177    1.1386   236.00    56.00   180.00   390940
+TAC 2015 05 29 08 50 00   BGF073 N      co2     CCGG   403.460     0.070 ...  L8 2015 08 07 13 57 00  52.5177    1.1386   236.00    56.00   180.00   390941
+TAC 2015 06 03 13 30 00   BGF041 N      co2     CCGG   398.750     0.070 -..  L8 2015 09 24 11 18 00  52.5177    1.1386   236.00    56.00   180.00   394083
+TAC 2015 06 03 13 30 00   BGF044 N      co2     CCGG   399.750     0.070 +..  L8 2015 09 24 11 34 00  52.5177    1.1386   236.00    56.00   180.00   394084
+TAC 2015 06 29 09 30 00   BGF063 N      co2     CCGG   398.210     0.070 ...  L8 2015 09 24 12 53 00  52.5177    1.1386   236.00    56.00   180.00   394082
+TAC 2015 07 06 10 42 00   BGF046 N      co2     CCGG   396.500     0.070 ...  L8 2015 09 24 11 50 00  52.5177    1.1386   236.00    56.00   180.00   394085
+TAC 2015 07 06 10 42 00   BGF052 N      co2     CCGG   396.540     0.070 ...  L8 2015 09 24 12 06 00  52.5177    1.1386   236.00    56.00   180.00   394086
+TAC 2015 07 28 12 40 00   BGF050 N      co2     CCGG   395.540     0.070 ...  L8 2015 09 24 12 22 00  52.5177    1.1386   236.00    56.00   180.00   394087
+TAC 2015 07 28 12 40 00   BGF070 N      co2     CCGG   395.510     0.070 ...  L8 2015 09 24 12 38 00  52.5177    1.1386   236.00    56.00   180.00   394088
+TAC 2015 08 03 13 52 00   BGF053 N      co2     CCGG   392.100     0.070 ...  L8 2015 09 23 14 22 00  52.5177    1.1386   236.00    56.00   180.00   394089
+TAC 2015 08 03 13 52 00   BGF060 N      co2     CCGG   392.270     0.070 ...  L8 2015 09 23 14 38 00  52.5177    1.1386   236.00    56.00   180.00   394090
+TAC 2015 08 14 10 46 00   BGF008 N      co2     CCGG   412.710     0.070 +..  L8 2015 09 23 14 53 00  52.5177    1.1386   236.00    56.00   180.00   394091
+TAC 2015 08 14 10 46 00   BGF037 N      co2     CCGG   411.780     0.070 -..  L8 2015 09 23 15 09 00  52.5177    1.1386   236.00    56.00   180.00   394092
+TAC 2015 08 20 09 29 00   BGF036 N      co2     CCGG   398.010     0.070 -..  L8 2015 09 23 17 01 00  52.5177    1.1386   236.00    56.00   180.00   394095
+TAC 2015 08 20 09 29 00   BGF062 N      co2     CCGG   408.270     0.070 +..  L8 2015 09 23 17 17 00  52.5177    1.1386   236.00    56.00   180.00   394096
+TAC 2015 08 28 09 15 00   BGF015 N      co2     CCGG   393.210     0.070 ...  L8 2015 09 24 10 43 00  52.5177    1.1386   236.00    56.00   180.00   394093
+TAC 2015 08 28 09 15 00   BGF016 N      co2     CCGG   393.390     0.070 ...  L8 2015 09 24 10 59 00  52.5177    1.1386   236.00    56.00   180.00   394094
+TAC 2015 09 14 08 48 00   BGF030 N      co2     CCGG   403.530     0.070 ...  L8 2015 10 27 13 53 00  52.5177    1.1386   236.00    56.00   180.00   396262
+TAC 2015 09 14 08 48 00   BGF039 N      co2     CCGG   403.370     0.070 ...  L8 2015 10 27 14 09 00  52.5177    1.1386   236.00    56.00   180.00   396263
+TAC 2015 09 18 09 03 00   BGF058 N      co2     CCGG   399.220     0.070 ...  L8 2015 11 03 16 24 00  52.5177    1.1386   236.00    56.00   180.00   396259
+TAC 2015 09 23 13 46 00   BGF032 N      co2     CCGG   393.980     0.070 ...  L8 2015 10 27 14 57 00  52.5177    1.1386   236.00    56.00   180.00   396260
+TAC 2015 09 23 13 46 00   BGF051 N      co2     CCGG   394.050     0.070 ...  L8 2015 10 27 15 12 00  52.5177    1.1386   236.00    56.00   180.00   396261
+TAC 2015 10 05 08 55 00   BGF031 N      co2     CCGG   438.900     0.070 N..  L8 2015 10 27 14 25 00  52.5177    1.1386   236.00    56.00   180.00   396265
+TAC 2015 10 05 08 55 00   BGF045 N      co2     CCGG   408.360     0.070 ...  L8 2015 10 27 14 41 00  52.5177    1.1386   236.00    56.00   180.00   396264
+TAC 2015 10 09 09 16 00   BGF118 N      co2     CCGG   398.260     0.070 ...  L8 2015 12 04 14 20 00  52.5177    1.1386   236.00    56.00   180.00   398418
+TAC 2015 10 09 09 16 00   BGF120 N      co2     CCGG   398.070     0.070 ...  L8 2015 12 04 14 35 00  52.5177    1.1386   236.00    56.00   180.00   398419
+TAC 2015 10 16 09 40 00   BGF119 N      co2     CCGG   402.050     0.070 ...  L8 2015 12 04 13 48 00  52.5177    1.1386   236.00    56.00   180.00   398420
+TAC 2015 10 16 09 40 00   BGF126 N      co2     CCGG   402.210     0.070 ...  L8 2015 12 04 14 04 00  52.5177    1.1386   236.00    56.00   180.00   398421
+TAC 2015 10 23 09 20 00   BGF114 N      co2     CCGG   401.220     0.070 ...  L8 2015 12 04 12 30 00  52.5177    1.1386   236.00    56.00   180.00   398414
+TAC 2015 10 23 09 20 00   BGF122 N      co2     CCGG   401.370     0.070 ...  L8 2015 12 04 12 46 00  52.5177    1.1386   236.00    56.00   180.00   398415
+TAC 2015 10 29 14 42 00   BGF075 N      co2     CCGG   404.780     0.070 ...  L8 2015 12 04 13 02 00  52.5177    1.1386   236.00    56.00   180.00   398416
+TAC 2015 10 29 14 42 00   BGF121 N      co2     CCGG   404.850     0.070 ...  L8 2015 12 04 13 18 00  52.5177    1.1386   236.00    56.00   180.00   398417
+TAC 2015 11 06 13 05 00   BGF011 N      co2     CCGG   407.190     0.070 ...  L8 2016 01 26 12 09 00  52.5177    1.1386   236.00    56.00   180.00   400599
+TAC 2015 11 06 13 05 00   BGF021 N      co2     CCGG   407.220     0.070 ...  L8 2016 01 26 12 25 00  52.5177    1.1386   236.00    56.00   180.00   400598
+TAC 2015 11 12 10 10 00   BGF022 N      co2     CCGG   407.590     0.070 ...  L8 2016 01 26 11 37 00  52.5177    1.1386   236.00    56.00   180.00   400596
+TAC 2015 11 12 10 10 00   BGF023 N      co2     CCGG   408.020     0.070 ...  L8 2016 01 26 11 53 00  52.5177    1.1386   236.00    56.00   180.00   400597
+TAC 2015 12 18 10 30 00   BGF044 N      co2     CCGG   410.920     0.070 ...  L8 2016 01 26 10 34 00  52.5177    1.1386   236.00    56.00   180.00   400595
+TAC 2015 12 18 10 30 00   BGF050 N      co2     CCGG   410.930     0.070 ...  L8 2016 01 26 10 50 00  52.5177    1.1386   236.00    56.00   180.00   400594
+TAC 2016 01 04 11 05 00   BGF062 N      co2     CCGG   410.270     0.070 ...  L8 2016 01 26 11 06 00  52.5177    1.1386   236.00    56.00   180.00   400592
+TAC 2016 01 04 11 05 00   BGF070 N      co2     CCGG   410.250     0.070 ...  L8 2016 01 26 11 21 00  52.5177    1.1386   236.00    56.00   180.00   400593
