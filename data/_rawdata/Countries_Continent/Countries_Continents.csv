@@ -1,0 +1,253 @@
+ContinentA2	CountryISO_A2	CountryISO_A3	FIPS	NUTS	HASC	NameEnglish	Language	LanguagePC	useZipCodes	PhoneCode	TLD	Latitude	Longitude	Altitude	TerritoryOf	Updates
+AS	AF	AFG	AF00		AF	Afghanistan	FA	EN	TRUE	93	.af	33.833	66.025	1884		I         
+EU	AX	ALA	-		AX	Åland Islands	SV	"EN,SV"	TRUE	357	.ax	60.202	19.965	4	FI	T         
+EU	AL	ALB	AL00		AL	Albania	SQ	SQ	TRUE	355	.al	41.111	20.027	708		I         
+AF	DZ	DZA	AG00		DZ	Algeria	AR	FR	TRUE	213	.dz	28.214	2.655	800		I         
+OC	AS	ASM	AQ00		AS	American Samoa	EN	EN	TRUE	684	.as	-14.33	-170.75	193	US	M         
+EU	AD	AND	AN00		AD	Andorra	CA	CA	TRUE	376	.ad	42.551	1.576	1996		Q         
+AF	AO	AGO	AO00		AO	Angola	PT	PT	FALSE	244	.ao	-12.333	17.539	1112		I         
+NA	AI	AIA	AV00		AI	Anguilla	EN	EN	TRUE	264	.ai	18.245	-63.042	27	GB	I         
+AN	AQ	ATA	AY00		AQ	Antarctica	EN	EN	TRUE	672	.aq	-74.991	0.441	2300	AU	I         
+NA	AG	ATG	AC00		AG	Antigua and Barbuda	EN	EN	TRUE	1268	.ag	17.146	-61.821	62		Y         
+SA	AR	ARG	AR00		AR	Argentina	ES	ES	TRUE	54	.ar	-35.63	-65.159	595		Y         
+AS	AM	ARM	AM00		AM	Armenia	HY	"EN,HY"	TRUE	374	.am	40.292	44.937	1792		Y         
+NA	AW	ABW	AA00		AW	Aruba	NL	NL	TRUE	297	.aw	12.498	-69.937	65	NL	I         
+OC	AU	AUS	AS00		AU	Australia	EN	EN	TRUE	61	.au	-25.585	134.504	330		T         
+EU	AT	AUT	AU00	AT	AT	Austria	DE	DE	TRUE	43	.at	47.589	14.14	910		M         
+AS	AZ	AZE	AJ00		AZ	Azerbaijan	AZ	"EN,AZ"	TRUE	994	.az	40.356	47.869	384		I         
+NA	BS	BHS	BF00		BS	Bahamas	EN	EN	FALSE	242	.bs	23.986	-77.635	12		I         
+AS	BH	BHR	BA00		BH	Bahrain	AR	EN	TRUE	973	.bh	26.094	50.543	24		I         
+AS	BD	BGD	BG00		BD	Bangladesh	BN	EN	TRUE	880	.bd	24.309	90.058	85		I         
+NA	BB	BRB	BB00		BB	Barbados	EN	EN	TRUE	246	.bb	13.178	-59.549	67		I         
+EU	BY	BLR	BO00		BY	Belarus	BE	"EN,RU"	TRUE	375	.by	53.543	28.055	160		Y         
+EU	BE	BEL	BE00	BE	BE	Belgium	FR	"FR,NL"	TRUE	32	.be	50.649	4.642	181		Q         
+SA	BZ	BLZ	BH00		BZ	Belize	EN	EN	FALSE	501	.bz	17.33	-88.63	173		I         
+AF	BJ	BEN	BN00		BJ	Benin	FR	FR	FALSE	229	.bj	9.624	2.338	273		I         
+NA	BM	BMU	BD00		BM	Bermuda	EN	EN	TRUE	441	.bm	32.303	-64.752	15		Y         
+AS	BT	BTN	BT00		BT	Bhutan	DZ	EN	TRUE	975	.bt	27.417	90.435	2220		I         
+SA	BO	BOL	BL00		BO	Bolivia	ES	ES	FALSE	591	.bo	-16.712	-64.666	1192		I         
+NA	BQ	BES	-		BQ	"Bonaire, Sint Eustatius and Saba"	NL	NL	TRUE	599	.bq	12.18	-68.227	32	NL	I         
+EU	BA	BIH	BK00		BA	Bosnia and Herzegovina	BS	BS	TRUE	387	.ba	44.169	17.783	500		Y         
+AF	BW	BWA	BC00		BW	Botswana	EN	EN	FALSE	267	.bw	-22.189	23.814	1013		I         
+AN	BV	BVT	BV00		BV	Bouvet Island	NO	"EN,NO"	FALSE		.bv	-54.378	3.399	187	NO	Y         
+SA	BR	BRA	BR00		BR	Brazil	PT	PT	TRUE	55	.br	-10.808	-52.975	320		I         
+EU	IO	IOT	IO00		IO	British Indian Ocean Territory	EN	EN	TRUE	284	.io	-6.108	71.889	3	GB	I         
+NA	VG	VGB	VI00		VG	British Virgin Islands	EN	EN	TRUE	1340	.vg	18.492	-64.551	104	GB	I         
+AS	BN	BRN	BX00		BN	Brunei Darussalam	MS	EN	TRUE	673	.bn	4.57	114.748	36		I         
+EU	BG	BGR	BU00	BG	BG	Bulgaria	BG	"EN,BG"	TRUE	359	.bg	42.767	25.282	472		I         
+AF	BF	BFA	UV00		BF	Burkina Faso	FR	FR	FALSE	226	.bf	12.285	-1.746	297		I         
+AF	BI	BDI	BY00		BI	Burundi	FR	FR	FALSE	257	.bi	-3.365	29.887	1504		I         
+AS	KH	KHM	CB00		KH	Cambodia	KM	EN	TRUE	855	.kh	12.57	104.814	126		I         
+AF	CM	CMR	CM00		CM	Cameroon	FR	FR	FALSE	237	.cm	5.685	12.723	667		I         
+NA	CA	CAN	CA00		CA	Canada	EN	EN	TRUE	1	.ca	62.833	-95.914	487		M         
+AF	CV	CPV	CV00		CV	Cape Verde	PT	PT	TRUE	238	.cv	16.315	-24.035	565		Y         
+NA	KY	CYM	CJ00		KY	Cayman Islands	EN	EN	TRUE	345	.ky	19.511	-80.605	9		Y         
+AF	CF	CAF	CT00		CF	Central African Republic	FR	FR	FALSE	236	.cf	6.574	20.487	635		I         
+AF	TD	TCD	CD00		TD	Chad	FR	FR	TRUE	235	.td	15.943	18.943	543		I         
+SA	CL	CHL	CI00		CL	Chile	ES	ES	TRUE	56	.cl	-39.117	-72.441	1871		I         
+AS	CN	CHN	CH00		CN	China	ZH	"EN,ZH"	TRUE	86	.cn	36.554	104.056	1840		Y         
+AS	CX	CXR	KT00		CX	Christmas Island	EN	EN	TRUE	61	.cx	-10.366	105.641	72	AU	I         
+	CP	CLI	-		CP	Clipperton Islands		FR	FALSE		-			5	FR	I         
+AS	CC	CCK	CK00		CC	Cocos (Keeling) Islands	MS	"EN,MS"	TRUE	61	.cc	-12.043	96.893	1	AU	I         
+SA	CO	COL	CO00		CO	Colombia	ES	ES	TRUE	57	.co	3.998	-73.278	593		I         
+AF	KM	COM	CN00		KM	Comoros	AR	EN	FALSE	269	.km	-11.83	43.821	590		I         
+AF	CG	COG	CF00		CG	Congo (Brazzaville)	FR	FR	FALSE	242	.cg	-0.641	15.638	320		I         
+AF	CD	COD	CG00		CD	Congo DR	FR	FR	FALSE	243	.cd	-2.88	23.656	726		I         
+OC	CK	COK	CW00		CK	Cook Islands	EN	EN	FALSE	682	.ck	-21.234	-159.778	130	NZ	I         
+SA	CR	CRI	CS00		CR	Costa Rica	ES	ES	TRUE	506	.cr	10	-83.881	746		I         
+AF	CI	CIV	IV00		CI	Côte D'Ivoire	FR	FR	FALSE	225	.ci	7.599	-5.553	237		I         
+EU	HR	HRV	HR00	HR	HR	Croatia	HR	HR	TRUE	385	.hr	45.743	17.099	331		Y         
+NA	CU	CUB	CU00		CU	Cuba	ES	ES	TRUE	53	.cu	22.103	-79.014	108		I         
+NA	CW	CUW	UC00		CW	Curaçao	NL	NL	TRUE	599-9	.cw	12.145	-68.919	75	NL	M         
+AS	CY	CYP	CY00	CY	CY	Cyprus	EL	"EN,EL"	TRUE	357	.cy	35.051	33.295	91		Y         
+EU	CZ	CZE	EZ00	CZ	CZ	Czech Republic	CS	CS	TRUE	42	.cz	49.739	15.333	433		M         
+EU	DK	DNK	DA00	DK	DK	Denmark	DA	DA	TRUE	45	.dk	56.102	9.556	34		Q         
+AF	DJ	DJI	DJ00		DJ	Djibouti	FR	FR	FALSE	253	.dj	11.743	42.632	430		I         
+NA	DM	DMA	DO00		DM	Dominica	EN	EN	FALSE	767	.dm	15.399	-61.339	289		I         
+NA	DO	DOM	DR00		DO	Dominican Republic	ES	ES	TRUE	809	.do	19.051	-70.337	424		I         
+OC	TL	TLS	TT00		TL	East Timor	TE	EN	FALSE	670	.tp	-8.857	125.797	45		I         
+SA	EC	ECU	EC00		EC	Ecuador	ES	ES	TRUE	593	.ec	-1.422	-78.871	1117		I         
+AF	EG	EGY	EG00		EG	Egypt	AR	EN	TRUE	20	.eg	26.747	29.869	321		I         
+SA	SV	SLV	ES00		SV	El Salvador	ES	ES	TRUE	503	.sv	13.669	-88.866	442		I         
+AF	GQ	GNQ	EK00		GQ	Equatorial Guinea	ES	ES	FALSE	240	.gq	1.533	10.373	577		I         
+AF	ER	ERI	ER00		ER	Eritrea	AA	EN	FALSE	291	.er	15.638	38.851	853		I         
+EU	EE	EST	EN00	EE	EE	Estonia	ET	ET	TRUE	372	.ee	58.694	25.253	61		Y         
+AF	ET	ETH	ET00		ET	Ethiopia	AM	EN	TRUE	251	.et	8.622	39.635	1330		I         
+SA	FK	FLK	FK00		FK	Falkland Islands	EN	EN	TRUE	500	.fk	-51.773	-59.728	141	GB	I         
+EU	FO	FRO	FO00		FO	Faroe Islands	FO	FO	TRUE	298	.fo	61.954	-6.857	176	DK	Y         
+OC	FJ	FJI	FJ00		FJ	Fiji	EN	EN	FALSE	679	.fj	-16.514	179.454	264		I         
+EU	FI	FIN	FI00	FI	FI	Finland	FI	"FI,SV"	TRUE	358	.fi	64.29	25.992	164		T         
+EU	FR	FRA	FR00	FR	FR	France	FR	FR	TRUE	33	.fr	46.642	2.338	375		M         
+SA	GF	GUF	FG00		GF	French Guiana	FR	FR	TRUE	594	.gf	4.118	-53.134	168	FR	M         
+OC	PF	PYF	FP00		PF	French Polynesia	FR	FR	TRUE	689	.pf	-18.28	-142.223	448	FR	M         
+AN	TF	ATF	FS00		TF	French Southern Territories	FR	FR	TRUE		.tf	-49.339	69.256	370	FR	M         
+AF	GA	GAB	GB00		GA	Gabon	FR	FR	FALSE	241	.ga	-0.635	11.739	377		I         
+AF	GM	GMB	GA00		GM	Gambia	EN	EN	FALSE	220	.gm	13.44	-15.491	34		I         
+EU	GE	GEO	GG00		GE	Georgia	KA	EN	TRUE	995	.ge	42.19	43.456	1432		I         
+EU	DE	DEU	GM00	DE	DE	Germany	DE	DE	TRUE	49	.de	51.202	10.382	263		Q         
+AF	GH	GHA	GH00		GH	Ghana	EN	EN	FALSE	233	.gh	7.921	-1.204	190		I         
+EU	GI	GIB	GI00		GI	Gibraltar	EN	EN	TRUE	350	.gi	36.136	-5.349	43	GB	I         
+EU	GR	GRC	GR00	EL	GR	Greece	EL	"EN,EL"	TRUE	30	.gr	38.301	23.741	498		Y         
+NA	GL	GRL	GL00		GL	Greenland	KL	DA	TRUE	299	.gl	74.35	-41.09	1792	DK	Q         
+NA	GD	GRD	GJ00		GD	Grenada	EN	EN	FALSE	473	.gd	12.196	-61.64	132		I         
+NA	GP	GLP	GP00		GP	Guadeloupe	FR	FR	TRUE	590	.gp	16.254	-61.456	186	FR	M         
+OC	GU	GUM	GQ00		GU	Guam	EN	EN	TRUE	671	.gu	13.124	144.694	41	US	M         
+SA	GT	GTM	GT00		GT	Guatemala	ES	ES	TRUE	502	.gt	15.478	-90.156	759		I         
+EU	GG	GGY	GK00		GG	Guernsey	EN	EN	TRUE	30	.gg	49.528	-2.406	22	GB	M         
+AF	GN	GIN	GV00		GN	Guinea	FR	FR	TRUE	224	.gn	10.967	-10.922	472		I         
+AF	GW	GNB	PU00		GW	Guinea-Bissau	PT	PT	TRUE	245	.gw	11.904	-15.163	70		I         
+SA	GY	GUY	GY00		GY	Guyana	EN	EN	FALSE	592	.gy	5.097	-59.048	207		I         
+NA	HT	HTI	HA00		HT	Haiti	HT	FR	TRUE	509	.ht	19.09	-72.438	470		I         
+AN	HM	HMD	HM00		HM	Heard Island and McDonald Islands	EN	EN	TRUE		.hm	-53.07	73.522	160	AU	I         
+SA	HN	HND	HO00		HN	Honduras	ES	ES	TRUE	504	.hn	14.974	-86.267	684		I         
+AS	HK	HKG	HK00		HK	Hong Kong	ZH	EN	TRUE	852	.hk	22.336	114.187	191	CN	Y         
+EU	HU	HUN	HU00	HU	HU	Hungary	HU	HU	TRUE	36	.hu	47.166	19.418	143		Y         
+EU	IS	ISL	IC00	IS	IS	Iceland	IS	IS	TRUE	354	.is	64.929	-18.962	557		Y         
+AS	IN	IND	IN00		IN	India	TA	EN	TRUE	91	.in	22.671	79.144	160		Y         
+AS	ID	IDN	ID00		ID	Indonesia	ID	EN	TRUE	62	.id	-2.956	119.521	367		I         
+AS	IR	IRN	IR00		IR	Iran	FA	EN	TRUE	98	.ir	32.496	54.295	1305		I         
+AS	IQ	IRQ	IZ00		IQ	Iraq	AR	"EN,AR"	TRUE	964	.iq	33.045	43.797	312		I         
+EU	IE	IRL	EI00	IE	IE	Ireland	EN	EN	FALSE	353	.ie	53.183	-8.199	118		I         
+EU	IM	IMN	IM00		IM	Isle of Man	EN	EN	TRUE	28	.im	54.225	-4.562	89	GB	M         
+AS	IL	ISR	IS00		IL	Israel	HE	"EN,HE"	TRUE	972	.il	31.608	34.818	508		I         
+EU	IT	ITA	IT00	IT	IT	Italy	IT	IT	TRUE	39	.it	42.768	12.492	538		T         
+NA	JM	JAM	JM00		JM	Jamaica	EN	EN	TRUE	1	.jm	18.236	-77.364	18		Y         
+AS	JP	JPN	JA00		JP	Japan	JA	"EN,JA,AI"	TRUE	81	.jp	35.156	136.06	438		M         
+EU	JE	JEY	JE00		JE	Jersey	EN	EN	TRUE	29	.je	49.229	-2.123	28	GB	M         
+AS	JO	JOR	JO00		JO	Jordan	AR	EN	TRUE	962	.jo	31.212	36.385	812		Y         
+AS	KZ	KAZ	KZ00		KZ	Kazakhstan	KK	"EN,RU"	TRUE	7	.kz	48.146	67.179	387		Y         
+AF	KE	KEN	KE00		KE	Kenya	SW	EN	TRUE	254	.ke	0.511	37.878	762		I         
+OC	KI	KIR	KR00		KI	Kiribati	EN	EN	FALSE	686	.ki	-0.539	174.228	16		I         
+EU	XK	XKX	KV00		XK	Kosovo	SR	"EN,SQ,SR"	TRUE	381	.xk	42.576	20.899	433		Y         
+AS	KW	KWT	KU00		KW	Kuwait	AR	"EN,AR"	TRUE	965	.kw	29.427	47.452	108		I         
+AS	KG	KGZ	KG00		KG	Kyrgyzstan	KY	"EN,RU"	TRUE	7	.kg	41.464	74.556	2988		I         
+AS	LA	LAO	LA00		LA	Laos	LO	EN	TRUE	856	.la	19.074	103.361	710		I         
+EU	LV	LVA	LG00	LV	LV	Latvia	LV	LV	TRUE	371	.lv	56.869	24.841	87		Y         
+AS	LB	LBN	LE00		LB	Lebanon	AR	"EN,AR"	TRUE	961	.lb	33.946	35.809	1250		I         
+AF	LS	LSO	LT00		LS	Lesotho	EN	EN	TRUE	266	.ls	-29.58	28.254	2161		I         
+AF	LR	LBR	LI00		LR	Liberia	EN	EN	TRUE	231	.lr	6.412	-9.323	243		I         
+AF	LY	LBY	LY00		LY	Libya	AR	EN	TRUE	218	.ly	27.236	18.044	423		I         
+EU	LI	LIE	LS00		LI	Liechtenstein	DE	DE	TRUE	41	.li	47.145	9.554	519		M         
+EU	LT	LTU	LH00	LT	LT	Lithuania	LT	LT	TRUE	370	.lt	55.338	23.874	110		Y         
+EU	LU	LUX	LU00	LU	LU	Luxembourg	FR	FR	TRUE	352	.lu	49.778	6.095	325		Y         
+AS	MO	MAC	MC00		MO	Macau	ZH	EN	TRUE	853	.mo	22.128	113.576	34	CN	I         
+EU	MK	MKD	MK00	MK	MK	Macedonia	MK	"EN,MK"	TRUE	389	.mk	41.603	21.715	741		Y         
+AF	MG	MDG	MA00		MG	Madagascar	FR	FR	TRUE	261	.mg	-19.272	46.698	615		I         
+AF	MW	MWI	MI00		MW	Malawi	NY	EN	FALSE	265	.mw	-13.35	33.754	779		I         
+AS	MY	MYS	MY00		MY	Malaysia	MS	EN	TRUE	60	.my	4.404	102.235	419		I         
+AS	MV	MDV	MV00		MV	Maldives	DI	EN	TRUE	960	.mv	3.092	73.056	1		I         
+AF	ML	MLI	ML00		ML	Mali	FR	FR	FALSE	223	.ml	17.358	-3.526	343		I         
+EU	MT	MLT	MT00	MT	MT	Malta	MT	"EN,MT"	TRUE	356	.mt	35.933	14.381	50		I         
+OC	MH	MHL	RM00		MH	Marshall Islands	MH	"EN,MH"	TRUE	692	.mh	10.786	169.134	2	US	M         
+NA	MQ	MTQ	MB00		MQ	Martinique	FR	FR	TRUE	596	.mq	14.643	-60.978	123	FR	M         
+AF	MR	MRT	MR00		MR	Mauritania	AR	EN	FALSE	222	.mr	20.259	-10.364	276		I         
+AF	MU	MUS	MP00		MU	Mauritius	EN	EN	TRUE	230	.mu	-20.22	57.589	165		I         
+AF	YT	MYT	MF00		YT	Mayotte	FR	FR	TRUE	269	.yt	-12.796	45.142	132	FR	M         
+NA	MX	MEX	MX00		MX	Mexico	ES	ES	TRUE	52	.mx	23.909	-102.634	1111		M         
+AS	FM	FSM	FM00		FM	Micronesia	EN	EN	TRUE	691	.fm	5.865	151.521	21	US	M         
+EU	MD	MDA	MD00		MD	Moldova	RO	RO	TRUE	373	.md	47.203	28.473	139		Y         
+EU	MC	MCO	MN00		MC	Monaco	FR	FR	TRUE	337	.mc	43.74	7.427	32		M         
+AS	MN	MNG	MG00		MN	Mongolia	MN	"EN,MN"	TRUE	976	.mn	46.836	103.067	1528		I         
+AS	ME	MNE	MJ00		ME	Montenegro	SR	EN	TRUE	381	.cs	42.831	19.185	1086		I         
+NA	MS	MSR	MH00		MS	Montserrat	EN	EN	TRUE	1	.ms	16.736	-62.189	163	GB	I         
+AF	MA	MAR	MO00		MA	Morocco	AR	FR	TRUE	212	.ma	31.889	-6.351	909		Y         
+AF	MZ	MOZ	MZ00		MZ	Mozambique	PT	PT	TRUE	258	.mz	-17.906	35.347	345		Y         
+AS	MM	MMR	BM00		MM	Myanmar	MY	EN	TRUE	95	.mm	21.406	96.108	826		I         
+AF	NA	NAM	WA00		NA	Namibia	EN	EN	FALSE	264	.na	-22.149	17.18	1141		I         
+OC	NR	NRU	NR00		NR	Nauru	NA	EN	FALSE	674	.nr	-0.528	166.933	14		I         
+AS	NP	NPL	NP00		NP	Nepal	NE	EN	TRUE	977	.np	28.264	83.931	2565		I         
+EU	NL	NLD	NL00	NL	NL	Netherlands	NL	NL	TRUE	31	.nl	52.342	5.528	30		M         
+EU	AN	ANT	-		AN	Netherlands Antilles	NL	NL	FALSE	599	.an	12.331	-68.812	57	NL	I         
+OC	NC	NCL	NC00		NC	New Caledonia	FR	FR	TRUE	687	.nc	-20.992	165.019	325	FR	M         
+OC	NZ	NZL	NZ00		NZ	New Zealand	EN	EN	TRUE	64	.nz	-41.667	172.941	388		Q         
+SA	NI	NIC	NU00		NI	Nicaragua	ES	ES	TRUE	505	.ni	12.904	-84.922	298		I         
+AF	NE	NER	NG00		NE	Niger	FR	FR	TRUE	227	.ne	17.424	9.401	474		I         
+AF	NG	NGA	NI00		NG	Nigeria	EN	EN	TRUE	234	.ng	9.559	8.078	380		I         
+OC	NU	NIU	NE00		NU	Niue	NI	EN	FALSE	683	.nu	-19.051	-169.86	13	NZ	I         
+OC	NF	NFK	NF00		NF	Norfolk Island	EN	EN	TRUE	672	.nf	-29.033	167.951	63		I         
+AS	KP	PRK	KN00		KP	North Korea	KO	EN	FALSE	850	.kp	40.279	126.663	600		I         
+OC	MP	MNP	CQ00		MP	Northern Mariana Islands	FI	EN	TRUE	670	.mp	18.289	145.699	193	US	M         
+EU	NO	NOR	NO00	NO	NO	Norway	NO	NO	TRUE	47	.no	65.398	13.242	460		Y         
+AS	OM	OMN	MU00		OM	Oman	AR	EN	TRUE	968	.om	21.01	56.854	310		I         
+AS	PK	PAK	PK00		PK	Pakistan	UR	EN	TRUE	92	.pk	29.316	68.765	900		Y         
+OC	PW	PLW	PS00		PW	Palau	PW	"EN,PW"	TRUE	680	.pw	7.317	134.403	37		M         
+AS	PS	PSE	GZ00		PS	Palestinian Territory (Gaza Strip)	AR	EN	TRUE	970	.ps	31.407	34.393	206		Y         
+SA	PA	PAN	PM00		PA	Panama	ES	ES	FALSE	507	.pa	8.599	-80.41	360		I         
+OC	PG	PNG	PP00		PG	Papua New Guinea	EN	EN	TRUE	675	.pg	-6.121	146.858	667		I         
+SA	PY	PRY	PA00		PY	Paraguay	ES	ES	TRUE	595	.py	-23.244	-58.394	178		Y         
+SA	PE	PER	PE00		PE	Peru	ES	ES	TRUE	51	.pe	-9.213	-75.112	1555		I         
+AS	PH	PHL	RP00		PH	Philippines	EN	EN	TRUE	63	.ph	12.023	122.714	442		Y         
+OC	PN	PCN	PC00		PN	Pitcairn Islands	EN	EN	TRUE		.pn	-24.378	-128.325	69	GB	I         
+EU	PL	POL	PL00	PL	PL	Poland	PL	PL	TRUE	48	.pl	52.147	19.378	173		Q         
+EU	PT	PRT	PO00	PT	PT	Portugal	PT	PT	TRUE	351	.pt	39.642	-8.346	372		Q         
+NA	PR	PRI	RQ00		PR	Puerto Rico	ES	ES	TRUE	1	.pr	18.247	-66.648	261	US	M         
+AS	QA	QAT	QA00		QA	Qatar	AR	EN	FALSE	974	.qa	25.414	51.26	28		Q         
+AF	RE	REU	RE00		RE	Réunion	FR	FR	TRUE	262	.re	-21.143	55.532	327	FR	M         
+EU	RO	ROU	RO00	RO	RO	Romania	RO	RO	TRUE	40	.ro	45.839	25.009	414		Y         
+EU	RU	RUS	RS00		RU	Russia	RU	"EN,RU"	TRUE	7	.ru	63.14	103.89	600		Y         
+AF	RW	RWA	RW00		RW	Rwanda	RW	FR	FALSE	250	.rw	-2.003	29.923	1598		I         
+AF	EH	ESH	WI00		EH	Sahrawi Arab (Western Sahara)	AR	EN	TRUE	212	.eh	24.666	-13.191	161		Y         
+NA	BL	BLM	TB00		BL	Saint Barthélemy	FR	FR	TRUE	590	.gp	17.902	-62.829	57	FR	M         
+AF	SH	SHN	SH00		SH	"Saint Helena, Ascension and Tristan Da Cunha"	EN	EN	TRUE	290	.sh	-15.831	-5.618	55	GB	I         
+NA	KN	KNA	SC00		KN	Saint Kitts and Nevis	EN	EN	FALSE	869	.kn	17.244	-62.643	138		I         
+NA	LC	LCA	ST00		LC	Saint Lucia	EN	EN	FALSE	758	.lc	13.889	-60.965	190		I         
+NA	MF	MAF	RN00		MF	Saint Martin	FR	FR	TRUE	590	.gp	18.044	-63.057	84	FR	M         
+NA	PM	SPM	SB00		PM	Saint Pierre and Miquelon	FR	FR	TRUE	508	.pm	46.906	-56.337	48	FR	M         
+NA	VC	VCT	VC00		VC	Saint Vincent and the Grenadines	EN	EN	TRUE	809	.vc	13.185	-61.229	189		I         
+OC	WS	WSM	WS00		WS	Samoa	SM	SM	TRUE	685	.ws	-13.852	-172.031	127		I         
+EU	SM	SMR	SM00		SM	San Marino	IT	IT	TRUE	378	.sm	43.944	12.459	112		T         
+AF	ST	STP	TP00		ST	São Tomé and Príncipe	PT	PT	FALSE	239	.st	0.82	7.002	327		I         
+AS	SA	SAU	SA00		SA	Saudi Arabia	AR	EN	TRUE	966	.sa	23.888	44.442	665		I         
+AF	SN	SEN	SG00		SN	Senegal	FR	FR	TRUE	221	.sn	14.9	-14.599	69		I         
+AS	RS	SRB	RI00		RS	Serbia	SR	"EN,SR"	TRUE	381	.yu	43.855	20.59	442		I         
+AF	SC	SYC	SE00		SC	Seychelles	EN	EN	FALSE	248	.sc	-4.685	55.482	132		I         
+AF	SL	SLE	SL00		SL	Sierra Leone	EN	EN	FALSE	232	.sl	8.521	-11.844	279		I         
+AS	SG	SGP	SN00		SG	Singapore	ZH	EN	TRUE	65	.sg	1.322	103.821	32		Q         
+NA	SX	MAF	NN00		SX	Sint Maarten	NL	NL	TRUE	721	.an	18.044	-63.082	48	NL	M         
+EU	SK	SVK	LO00	SK	SK	Slovakia	SK	SK	TRUE	42	.sk	48.707	19.487	458		Y         
+EU	SI	SVN	SI00	SI	SI	Slovenia	SL	SL	TRUE	386	.si	46.12	14.821	492		Y         
+OC	SB	SLB	BP00		SB	Solomon Islands	EN	EN	FALSE	677	.sb	-9.149	160.987	51		I         
+AF	SO	SOM	SO00		SO	Somalia	SO	EN	FALSE	252	.so	9.46	47.167	410		I         
+AF	ZA	ZAF	SF00		ZA	South Africa	EN	EN	TRUE	27	.za	-29.046	25.063	1034		I         
+AN	GS	SGS	SX00		GS	South Georgia and the South Sandwich Islands	EN	EN	TRUE	995	.gs	-54.401	-36.586	7		I         
+AS	KR	KOR	KS00		KR	South Korea	KO	"EN,KO"	TRUE	82	.kr	36.097	127.513	282		I         
+AF	SS	SSD	OD00		SS	South Sudan	AR	EN	TRUE	211	.ss	7.515	30.121	637		I         
+EU	ES	ESP	SP00	ES	ES	Spain	ES	ES	TRUE	34	.es	40.396	-3.551	660		Q         
+AS	LK	LKA	CE00		LK	Sri Lanka	SI	EN	TRUE	94	.lk	7.789	80.681	228		I         
+AF	SD	SDN	SU00		SD	Sudan	AR	EN	TRUE	249	.sd	13.933	30.152	568		I         
+SA	SR	SUR	NS00		SR	Suriname	NL	NL	FALSE	597	.sr	4.217	-55.889	246		I         
+EU	SJ	SJM	SV00		SJ	Svalbard and Jan Mayen	NO	NO	TRUE	47	.sj	77.27	14.38	189	NO	Y         
+AF	SZ	SWZ	WZ00		SZ	Swaziland	EN	EN	TRUE	268	.sz	-26.565	31.501	305		I         
+EU	SE	SWE	SW00	SE	SE	Sweden	SV	SV	TRUE	46	.se	62.915	16.237	320		Q         
+EU	CH	CHE	SZ00		CH	Switzerland	DE	"DE,FR,IT"	TRUE	41	.ch	46.806	8.226	1350		M         
+AS	SY	SYR	SY00		SY	Syria	SY	"EN,AR"	FALSE	963	.sy	35.03	38.469	514		I         
+AS	TW	TWN	TW00		TW	Taiwan	CH	"EN,ZH"	TRUE	886	.tw	23.686	120.897	1150		I         
+AS	TJ	TJK	TI00		TJ	Tajikistan	TG	EN	TRUE	7	.tj	38.814	71.479	3186		I         
+AF	TZ	TZA	TZ00		TZ	Tanzania	SW	EN	FALSE	255	.tz	-6.307	34.854	1018		I         
+AS	TH	THA	TH00		TH	Thailand	TH	"EN,TH"	TRUE	66	.th	15.229	101.1	287		Y         
+AF	TG	TGO	TO00		TG	Togo	FR	FR	FALSE	228	.tg	8.513	0.98	236		I         
+OC	TK	TKL	TL00		TK	Tokelau	TK	EN	FALSE	690	.tk	-9.15	-171.815	1	NZ	I         
+OC	TO	TON	TN00		TO	Tonga	TO	EN	FALSE	676	.to	-18.985	-174.586	206		I         
+NA	TT	TTO	TD00		TT	Trinidad and Tobago	EN	EN	FALSE	868	.tt	10.701	-61.152	83		I         
+AF	TN	TUN	TS00		TN	Tunisia	AR	FR	TRUE	216	.tn	34.356	9.754	246		I         
+EU	TR	TUR	TU00	TR	TR	Turkey	TR	TR	TRUE	90	.tr	39.051	34.93	1132		Y         
+AS	TM	TKM	TX00		TM	Turkmenistan	TK	EN	TRUE	993	.tm	39.201	59.082	230		I         
+NA	TC	TCA	TK00		TC	Turks and Caicos	EN	EN	TRUE	649	.tc	21.505	-71.754	9	GB	I         
+OC	TV	TUV	TV00		TV	Tuvalu	TV	EN	FALSE	688	.tv	-8.507	179.196	1		I         
+AF	UG	UGA	UG00		UG	Uganda	EN	EN	FALSE	256	.ug	1.282	32.388	989		I         
+EU	UA	UKR	UP00		UA	Ukraine	UK	"EN,UK"	TRUE	380	.ua	48.927	31.478	175		Y         
+AS	AE	ARE	AE00		AE	United Arab Emirates	AR	EN	FALSE	971	.ae	23.685	54.204	149		I         
+EU	GB	GBR	UK00	UK	GB	United Kingdom	EN	EN	TRUE	44	.uk	54.071	-2.784	162		M         
+NA	US	USA	US00		US	United States	EN	EN	TRUE	1	.us	39.45	-98.908	760		M         
+NA	UM	UMI	UM00		UM	United States Minor Outlying Islands	EN	EN	FALSE	340	-	39.45	-98.908	2	US	M         
+SA	UY	URY	UY00		UY	Uruguay	ES	ES	TRUE	598	.uy	-32.863	-56.007	109		I         
+NA	VI	VIR	VQ00		VI	US Virgin Islands	EN	EN	TRUE	340	.vi	17.753	-64.735	39	US	M         
+AS	UZ	UZB	UZ00		UZ	Uzbekistan	UZ	"EN,RU"	TRUE	7	.uz	41.772	63.146	928		Y         
+OC	VU	VUT	NH00		VU	Vanuatu	BI	EN	FALSE	678	.vu	-16.651	168.022	375		I         
+EU	VA	VAT	VT00		VA	Vatican City	LA	LA	TRUE	379	.va	41.903	12.453	15		T         
+SA	VE	VEN	VE00		VE	Venezuela	ES	ES	TRUE	58	.ve	7.674	-66.15	450		I         
+AS	VN	VNM	VM00		VN	Viet Nam	VI	VI	TRUE	84	.vn	16.803	106.993	327		I         
+OC	WF	WLF	WF00		WF	Wallis and Futuna	WL	FR	TRUE	681	.wf	-11.417	-177.703	73	FR	M         
+AS	YE	YEM	YM00		YE	Yemen	AR	"EN,AR"	FALSE	967	.ye	15.341	47.908	999		I         
+AF	ZM	ZMB	ZA00		ZM	Zambia	EN	EN	TRUE	260	.zm	-14.197	27.996	1138		I         
+AF	ZW	ZWE	ZI00		ZW	Zimbabwe	EN	EN	FALSE	263	.zw	-19	29.869	961		I         
